@@ -2,8 +2,8 @@
 - 👀 I’m interested in Computer Architecture
 - 🌱 I’m currently learning C++
 - 📫 How to reach me temmanab@usc.edu
-Hi Ubuntu
-Is this change working
+- Hi Ubuntu
+- Is this change working
 
 <!---
 Siva-Teja-Temmanaboiana/Siva-Teja-Temmanaboiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
